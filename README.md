@@ -7,15 +7,145 @@
 	Neighborhood Name 09/06/13, Descriptive Data is as of 06/01/13
 	Building Class Category is based on Building Class at Time of Sale.
 	
-BOROUGH,NEIGHBORHOOD,BUILDING CLASS CATEGORY,TAX CLASS AT PRESENT,BLOCK,LOT,EASE-MENT,BUILDING CLASS AT PRESENT,ADDRESS,"APART
-MENT
-NUMBER",ZIP CODE,RESIDENTIAL UNITS,COMMERCIAL UNITS,TOTAL UNITS,LAND SQUARE FEET,GROSS SQUARE FEET,YEAR BUILT,TAX CLASS AT TIME OF SALE,BUILDING CLASS AT TIME OF SALE,"SALE
-PRICE",SALE DATE
-3,                         ,15  CONDOS - 2-10 UNIT RESIDENTIAL          ,  ,814,1103, ,  , 342 53RD    STREET                        ,            ,11220,0,0,0,0,0,0, 2 , R1 ,"$403,572",7/9/2013
-3,                         ,15  CONDOS - 2-10 UNIT RESIDENTIAL          ,  ,814,1105, ,  , 342 53RD    STREET                        ,            ,11220,0,0,0,0,0,0, 2 , R1 ,"$218,010",7/12/2013
-3,                         ,15  CONDOS - 2-10 UNIT RESIDENTIAL          ,  ,1967,1401, ,  , 290 GREENE AVE                            ,            ,11238,0,0,0,0,0,0, 2 , R1 ,"$952,311",4/25/2013
-3,                         ,15  CONDOS - 2-10 UNIT RESIDENTIAL          ,  ,1967,1402, ,  , 290 GREENE AVE                            ,            ,11238,0,0,0,0,0,0, 2 , R1 ,"$842,692",4/25/2013
-3,                         ,15  CONDOS - 2-10 UNIT RESIDENTIAL          ,  ,1967,1403, ,  , 290 GREENE AVE                            ,            ,11238,0,0,0,0,0,0, 2 , R1 ,"$815,288",4/25/2013
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">BOROUGH</th>
+<th title="Field #2">NEIGHBORHOOD</th>
+<th title="Field #3">BUILDING CLASS CATEGORY</th>
+<th title="Field #4">TAX CLASS AT PRESENT</th>
+<th title="Field #5">BLOCK</th>
+<th title="Field #6">LOT</th>
+<th title="Field #7">EASE-MENT</th>
+<th title="Field #8">BUILDING CLASS AT PRESENT</th>
+<th title="Field #9">ADDRESS</th>
+<th title="Field #10">APART<br/>MENT<br/>NUMBER</th>
+<th title="Field #11">ZIP CODE</th>
+<th title="Field #12">RESIDENTIAL UNITS</th>
+<th title="Field #13">COMMERCIAL UNITS</th>
+<th title="Field #14">TOTAL UNITS</th>
+<th title="Field #15">LAND SQUARE FEET</th>
+<th title="Field #16">GROSS SQUARE FEET</th>
+<th title="Field #17">YEAR BUILT</th>
+<th title="Field #18">TAX CLASS AT TIME OF SALE</th>
+<th title="Field #19">BUILDING CLASS AT TIME OF SALE</th>
+<th title="Field #20">SALE<br/>PRICE</th>
+<th title="Field #21">SALE DATE</th>
+</tr></thead>
+<tbody><tr>
+<td align="right">3</td>
+<td>                         </td>
+<td>15  CONDOS - 2-10 UNIT RESIDENTIAL          </td>
+<td>  </td>
+<td align="right">814</td>
+<td align="right">1103</td>
+<td> </td>
+<td>  </td>
+<td> 342 53RD    STREET                        </td>
+<td>            </td>
+<td align="right">11220</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td align="right"> 2 </td>
+<td> R1 </td>
+<td>$403,572</td>
+<td>7/9/2013</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td>                         </td>
+<td>15  CONDOS - 2-10 UNIT RESIDENTIAL          </td>
+<td>  </td>
+<td align="right">814</td>
+<td align="right">1105</td>
+<td> </td>
+<td>  </td>
+<td> 342 53RD    STREET                        </td>
+<td>            </td>
+<td align="right">11220</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td align="right"> 2 </td>
+<td> R1 </td>
+<td>$218,010</td>
+<td>7/12/2013</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td>                         </td>
+<td>15  CONDOS - 2-10 UNIT RESIDENTIAL          </td>
+<td>  </td>
+<td align="right">1967</td>
+<td align="right">1401</td>
+<td> </td>
+<td>  </td>
+<td> 290 GREENE AVE                            </td>
+<td>            </td>
+<td align="right">11238</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td align="right"> 2 </td>
+<td> R1 </td>
+<td>$952,311</td>
+<td>4/25/2013</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td>                         </td>
+<td>15  CONDOS - 2-10 UNIT RESIDENTIAL          </td>
+<td>  </td>
+<td align="right">1967</td>
+<td align="right">1402</td>
+<td> </td>
+<td>  </td>
+<td> 290 GREENE AVE                            </td>
+<td>            </td>
+<td align="right">11238</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td align="right"> 2 </td>
+<td> R1 </td>
+<td>$842,692</td>
+<td>4/25/2013</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td>                         </td>
+<td>15  CONDOS - 2-10 UNIT RESIDENTIAL          </td>
+<td>  </td>
+<td align="right">1967</td>
+<td align="right">1403</td>
+<td> </td>
+<td>  </td>
+<td> 290 GREENE AVE                            </td>
+<td>            </td>
+<td align="right">11238</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td align="right"> 2 </td>
+<td> R1 </td>
+<td>$815,288</td>
+<td>4/25/2013</td>
+</tr>
+</tbody></table>                         ,            ,11238,0,0,0,0,0,0, 2 , R1 ,"$815,288",4/25/2013
 	
 ### Manhattan
 	Manhattan Rolling Sales File.  All Sales From August 2012 - August 2013. 
