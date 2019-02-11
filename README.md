@@ -1,0 +1,174 @@
+# New-York-City-Real-Estate-Data-Analysis
+	
+	
+### Brooklyn
+	Brooklyn Rolling Sales File.  All Sales From August 2012 - August 2013. 
+	Sales File as of 08/30/2013  Coop Sales Files as of 09/18/2013
+	Neighborhood Name 09/06/13, Descriptive Data is as of 06/01/13
+	Building Class Category is based on Building Class at Time of Sale.
+	
+### Manhattan
+	Manhattan Rolling Sales File.  All Sales From August 2012 - August 2013. 
+	Sales File as of 08/30/2013  Coop Sales Files as of 09/18/2013
+	Neighborhood Name 09/06/13, Descriptive Data is as of 06/01/13
+	Building Class Category is based on Building Class at Time of Sale.
+	
+### Queens
+	Queens Rolling Sales File.  All Sales From August 2012 - August 2013. 
+	Sales File as of 08/30/2013  Coop Sales Files as of 09/18/2013
+	Neighborhood Name 09/06/13, Descriptive Data is as of 06/01/13
+	Building Class Category is based on Building Class at Time of Sale.
+	
+### Bronx
+	Bronx Rolling Sales File.  All Sales From August 2012 - August 2013. 
+	Sales File as of 08/30/2013  Coop Sales Files as of 09/18/2013
+	Neighborhood Name 09/06/13, Descriptive Data is as of 06/01/13
+	Building Class Category is based on Building Class at Time of Sale.
+	
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">BOROUGH</th>
+<th title="Field #2">NEIGHBORHOOD</th>
+<th title="Field #3">BUILDING CLASS CATEGORY</th>
+<th title="Field #4">TAX CLASS AT PRESENT</th>
+<th title="Field #5">BLOCK</th>
+<th title="Field #6">LOT</th>
+<th title="Field #7">EASE-MENT</th>
+<th title="Field #8">BUILDING CLASS AT PRESENT</th>
+<th title="Field #9">ADDRESS</th>
+<th title="Field #10">APART<br/>MENT<br/>NUMBER</th>
+<th title="Field #11">ZIP CODE</th>
+<th title="Field #12">RESIDENTIAL UNITS</th>
+<th title="Field #13">COMMERCIAL UNITS</th>
+<th title="Field #14">TOTAL UNITS</th>
+<th title="Field #15">LAND SQUARE FEET</th>
+<th title="Field #16">GROSS SQUARE FEET</th>
+<th title="Field #17">YEAR BUILT</th>
+<th title="Field #18">TAX CLASS AT TIME OF SALE</th>
+<th title="Field #19">BUILDING CLASS AT TIME OF SALE</th>
+<th title="Field #20">SALE<br/>PRICE</th>
+<th title="Field #21">SALE DATE</th>
+</tr></thead>
+<tbody><tr>
+<td align="right">2</td>
+<td>BATHGATE                 </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">3028</td>
+<td align="right">25</td>
+<td> </td>
+<td>A5</td>
+<td> 412 EAST 179TH STREET                     </td>
+<td>            </td>
+<td align="right">10457</td>
+<td>1</td>
+<td align="right">0</td>
+<td>1</td>
+<td>1,842</td>
+<td>2,048</td>
+<td align="right">1901</td>
+<td align="right"> 1 </td>
+<td> A5 </td>
+<td>$355,000</td>
+<td>7/8/2013</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td>BATHGATE                 </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">3039</td>
+<td align="right">28</td>
+<td> </td>
+<td>A1</td>
+<td> 2329 WASHINGTON AVENUE                    </td>
+<td>            </td>
+<td align="right">10458</td>
+<td>1</td>
+<td align="right">0</td>
+<td>1</td>
+<td>1,103</td>
+<td>1,290</td>
+<td align="right">1910</td>
+<td align="right"> 1 </td>
+<td> A1 </td>
+<td>$474,819</td>
+<td>5/20/2013</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td>BATHGATE                 </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">3046</td>
+<td align="right">39</td>
+<td> </td>
+<td>A1</td>
+<td> 2075 BATHGATE AVENUE                      </td>
+<td>            </td>
+<td align="right">10457</td>
+<td>1</td>
+<td align="right">0</td>
+<td>1</td>
+<td>1,986</td>
+<td>1,344</td>
+<td align="right">1899</td>
+<td align="right"> 1 </td>
+<td> A1 </td>
+<td>$210,000</td>
+<td>3/12/2013</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td>BATHGATE                 </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">3046</td>
+<td align="right">52</td>
+<td> </td>
+<td>A1</td>
+<td> 2047 BATHGATE AVENUE                      </td>
+<td>            </td>
+<td align="right">10457</td>
+<td>1</td>
+<td align="right">0</td>
+<td>1</td>
+<td>2,329</td>
+<td>1,431</td>
+<td align="right">1901</td>
+<td align="right"> 1 </td>
+<td> A1 </td>
+<td>$343,116</td>
+<td>7/1/2013</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td>BATHGATE                 </td>
+<td>02  TWO FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">2900</td>
+<td align="right">61</td>
+<td> </td>
+<td>S2</td>
+<td> 406 EAST TREMONT AVENUE                   </td>
+<td>            </td>
+<td align="right">10457</td>
+<td>2</td>
+<td align="right">1</td>
+<td>3</td>
+<td>1,855</td>
+<td>4,452</td>
+<td align="right">1931</td>
+<td align="right"> 1 </td>
+<td> S2 </td>
+<td>$0</td>
+<td>8/31/2012</td>
+</tr>
+
+</tbody></table>
+	
+### Staten Island
+	Staten Island Rolling Sales File.  All Sales From August 2012 - August 2013. 
+	Sales File as of 08/30/2013  Coop Sales Files as of 09/18/2013
+	Neighborhood Name 09/06/13, Descriptive Data is as of 06/01/13
+	Building Class Category is based on Building Class at Time of Sale.
+ 
