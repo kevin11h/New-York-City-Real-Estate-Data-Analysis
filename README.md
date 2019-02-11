@@ -7,6 +7,16 @@
 	Neighborhood Name 09/06/13, Descriptive Data is as of 06/01/13
 	Building Class Category is based on Building Class at Time of Sale.
 	
+BOROUGH,NEIGHBORHOOD,BUILDING CLASS CATEGORY,TAX CLASS AT PRESENT,BLOCK,LOT,EASE-MENT,BUILDING CLASS AT PRESENT,ADDRESS,"APART
+MENT
+NUMBER",ZIP CODE,RESIDENTIAL UNITS,COMMERCIAL UNITS,TOTAL UNITS,LAND SQUARE FEET,GROSS SQUARE FEET,YEAR BUILT,TAX CLASS AT TIME OF SALE,BUILDING CLASS AT TIME OF SALE,"SALE
+PRICE",SALE DATE
+3,                         ,15  CONDOS - 2-10 UNIT RESIDENTIAL          ,  ,814,1103, ,  , 342 53RD    STREET                        ,            ,11220,0,0,0,0,0,0, 2 , R1 ,"$403,572",7/9/2013
+3,                         ,15  CONDOS - 2-10 UNIT RESIDENTIAL          ,  ,814,1105, ,  , 342 53RD    STREET                        ,            ,11220,0,0,0,0,0,0, 2 , R1 ,"$218,010",7/12/2013
+3,                         ,15  CONDOS - 2-10 UNIT RESIDENTIAL          ,  ,1967,1401, ,  , 290 GREENE AVE                            ,            ,11238,0,0,0,0,0,0, 2 , R1 ,"$952,311",4/25/2013
+3,                         ,15  CONDOS - 2-10 UNIT RESIDENTIAL          ,  ,1967,1402, ,  , 290 GREENE AVE                            ,            ,11238,0,0,0,0,0,0, 2 , R1 ,"$842,692",4/25/2013
+3,                         ,15  CONDOS - 2-10 UNIT RESIDENTIAL          ,  ,1967,1403, ,  , 290 GREENE AVE                            ,            ,11238,0,0,0,0,0,0, 2 , R1 ,"$815,288",4/25/2013
+	
 ### Manhattan
 	Manhattan Rolling Sales File.  All Sales From August 2012 - August 2013. 
 	Sales File as of 08/30/2013  Coop Sales Files as of 09/18/2013
