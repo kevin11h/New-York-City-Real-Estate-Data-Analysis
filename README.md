@@ -153,7 +153,8 @@
 	Neighborhood Name 09/06/13, Descriptive Data is as of 06/01/13
 	Building Class Category is based on Building Class at Time of Sale.
 	
-	<table class="table table-bordered table-hover table-condensed">
+
+<table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">BOROUGH</th>
 <th title="Field #2">NEIGHBORHOOD</th>
 <th title="Field #3">BUILDING CLASS CATEGORY</th>
