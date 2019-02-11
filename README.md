@@ -172,3 +172,143 @@
 	Neighborhood Name 09/06/13, Descriptive Data is as of 06/01/13
 	Building Class Category is based on Building Class at Time of Sale.
  
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">BOROUGH</th>
+<th title="Field #2">NEIGHBORHOOD</th>
+<th title="Field #3">BUILDING CLASS CATEGORY</th>
+<th title="Field #4">TAX CLASS AT PRESENT</th>
+<th title="Field #5">BLOCK</th>
+<th title="Field #6">LOT</th>
+<th title="Field #7">EASE-MENT</th>
+<th title="Field #8">BUILDING CLASS AT PRESENT</th>
+<th title="Field #9">ADDRESS</th>
+<th title="Field #10">APART<br/>MENT<br/>NUMBER</th>
+<th title="Field #11">ZIP CODE</th>
+<th title="Field #12">RESIDENTIAL UNITS</th>
+<th title="Field #13">COMMERCIAL UNITS</th>
+<th title="Field #14">TOTAL UNITS</th>
+<th title="Field #15">LAND SQUARE FEET</th>
+<th title="Field #16">GROSS SQUARE FEET</th>
+<th title="Field #17">YEAR BUILT</th>
+<th title="Field #18">TAX CLASS AT TIME OF SALE</th>
+<th title="Field #19">BUILDING CLASS AT TIME OF SALE</th>
+<th title="Field #20">SALE<br/>PRICE</th>
+<th title="Field #21">SALE DATE</th>
+</tr></thead>
+<tbody><tr>
+<td align="right">5</td>
+<td>ANNADALE                 </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">5395</td>
+<td align="right">32</td>
+<td> </td>
+<td>A1</td>
+<td> 541 SYCAMORE STREET                       </td>
+<td>            </td>
+<td align="right">10312</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>13,320</td>
+<td>4,696</td>
+<td align="right">1985</td>
+<td> 1 </td>
+<td> A1 </td>
+<td>$1,200,000</td>
+<td>8/15/2012</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td>ANNADALE                 </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">5401</td>
+<td align="right">10</td>
+<td> </td>
+<td>A2</td>
+<td> 16 JANSEN STREET                          </td>
+<td>            </td>
+<td align="right">10312</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>10,800</td>
+<td>2,015</td>
+<td align="right">1980</td>
+<td> 1 </td>
+<td> A2 </td>
+<td>$705,000</td>
+<td>2/8/2013</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td>ANNADALE                 </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">5401</td>
+<td align="right">38</td>
+<td> </td>
+<td>A1</td>
+<td> 27 WEAVER STREET                          </td>
+<td>            </td>
+<td align="right">10312</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>10,833</td>
+<td>2,128</td>
+<td align="right">1980</td>
+<td> 1 </td>
+<td> A1 </td>
+<td>$127,500</td>
+<td>9/26/2012</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td>ANNADALE                 </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">5407</td>
+<td align="right">11</td>
+<td> </td>
+<td>A1</td>
+<td> 24 ELMBANK STREET                         </td>
+<td>            </td>
+<td align="right">10312</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>5,000</td>
+<td>1,520</td>
+<td align="right">1910</td>
+<td> 1 </td>
+<td> A1 </td>
+<td>$237,276</td>
+<td>11/29/2012</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td>ANNADALE                 </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">5425</td>
+<td align="right">39</td>
+<td> </td>
+<td>A1</td>
+<td> 23 SANDGAP STREET                         </td>
+<td>  </td>
+<td align="right"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td align="right"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody></table>
