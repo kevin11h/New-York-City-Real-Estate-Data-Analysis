@@ -300,6 +300,147 @@
 	Neighborhood Name 09/06/13, Descriptive Data is as of 06/01/13
 	Building Class Category is based on Building Class at Time of Sale.
 	
+	
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">BOROUGH</th>
+<th title="Field #2">NEIGHBORHOOD</th>
+<th title="Field #3">BUILDING CLASS CATEGORY</th>
+<th title="Field #4">TAX CLASS AT PRESENT</th>
+<th title="Field #5">BLOCK</th>
+<th title="Field #6">LOT</th>
+<th title="Field #7">EASE-MENT</th>
+<th title="Field #8">BUILDING CLASS AT PRESENT</th>
+<th title="Field #9">ADDRESS</th>
+<th title="Field #10">APART<br/>MENT<br/>NUMBER</th>
+<th title="Field #11">ZIP CODE</th>
+<th title="Field #12">RESIDENTIAL UNITS</th>
+<th title="Field #13">COMMERCIAL UNITS</th>
+<th title="Field #14">TOTAL UNITS</th>
+<th title="Field #15">LAND SQUARE FEET</th>
+<th title="Field #16">GROSS SQUARE FEET</th>
+<th title="Field #17">YEAR BUILT</th>
+<th title="Field #18">TAX CLASS AT TIME OF SALE</th>
+<th title="Field #19">BUILDING CLASS AT TIME OF SALE</th>
+<th title="Field #20">SALE<br/>PRICE</th>
+<th title="Field #21">SALE DATE</th>
+</tr></thead>
+<tbody><tr>
+<td align="right">4</td>
+<td>AIRPORT LA GUARDIA       </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">949</td>
+<td align="right">30</td>
+<td> </td>
+<td>A5</td>
+<td> 19-40 81ST STREET                         </td>
+<td>            </td>
+<td align="right">11370</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1,800</td>
+<td>1,530</td>
+<td align="right">1945</td>
+<td> 1 </td>
+<td> A5 </td>
+<td>$620,000</td>
+<td>5/13/2013</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td>AIRPORT LA GUARDIA       </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">949</td>
+<td align="right">44</td>
+<td> </td>
+<td>A5</td>
+<td> 19-68 81ST   STREET                       </td>
+<td>            </td>
+<td align="right">11370</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1,800</td>
+<td>1,224</td>
+<td align="right">1945</td>
+<td> 1 </td>
+<td> A5 </td>
+<td>$0</td>
+<td>10/5/2012</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td>AIRPORT LA GUARDIA       </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">976</td>
+<td align="right">23</td>
+<td> </td>
+<td>A5</td>
+<td> 21-36 81ST   STREET                       </td>
+<td>            </td>
+<td align="right">11370</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1,800</td>
+<td>1,224</td>
+<td align="right">1950</td>
+<td> 1 </td>
+<td> A5 </td>
+<td>$505,000</td>
+<td>2/13/2013</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td>AIRPORT LA GUARDIA       </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">976</td>
+<td align="right">33</td>
+<td> </td>
+<td>A5</td>
+<td> 21-56 81ST STREET                         </td>
+<td>            </td>
+<td align="right">11370</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1,800</td>
+<td>1,224</td>
+<td align="right">1950</td>
+<td> 1 </td>
+<td> A5 </td>
+<td>$0</td>
+<td>7/25/2013</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td>AIRPORT LA GUARDIA       </td>
+<td>01  ONE FAMILY HOMES                        </td>
+<td>1</td>
+<td align="right">976</td>
+<td align="right">55</td>
+<td> </td>
+<td>A5</td>
+<td> 21-33 80TH ST.                            </td>
+<td>            </td>
+<td align="right">11370</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1,800</td>
+<td>1,224</td>
+<td align="right">1950</td>
+<td> 1 </td>
+<td> A5 </td>
+<td>$0</td>
+<td>10/10/2012</td>
+</tr>
+</tbody></table>
+	
 ### Bronx
 	Bronx Rolling Sales File.  All Sales From August 2012 - August 2013. 
 	Sales File as of 08/30/2013  Coop Sales Files as of 09/18/2013
